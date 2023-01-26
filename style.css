@@ -1,0 +1,35 @@
+.vert{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
+}
+.hori{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+}
+.text{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: darkslategrey;
+}
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    cursor: pointer;
+  }
+  table {
+    margin: 5px auto;
+ 
+  }
+  td:hover{
+    background-color: rgb(78, 104, 104);
+  }
+.vit{
+text-align: center;
+}
+
+
